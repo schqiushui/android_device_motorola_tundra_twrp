@@ -6,9 +6,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_tundra.mk
+<<<<<<< HEAD
+    $(LOCAL_DIR)/twrp_tundra.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_tundra-user \
-    omni_tundra-userdebug \
-    omni_tundra-eng
+    twrp_tundra-user \
+    twrp_tundra-userdebug \
+    twrp_tundra-eng
