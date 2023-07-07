@@ -6,7 +6,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-<<<<<<< HEAD
     $(LOCAL_DIR)/twrp_tundra.mk
 
 COMMON_LUNCH_CHOICES := \
